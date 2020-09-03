@@ -1,0 +1,55 @@
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.exe.config
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.csprojResolveAssemblyReference.cache
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-audio-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-graphics-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-network-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-system-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-window-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\libsndfile-1.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\openal32.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\OpenTK.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.exe
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.pdb
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-system-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-window-2.dll
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.exe
+C:\Users\TIGER ELECTRONIQUE\Documents\Visual Studio 2013\Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.pdb
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.exe.config
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.exe
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.pdb
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-audio-2.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-graphics-2.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-network-2.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-system-2.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-window-2.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\libsndfile-1.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\openal32.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\OpenTK.Compatibility.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\OpenTK.dll
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.exe
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.pdb
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.csprojResolveAssemblyReference.cache
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.csprojAssemblyReference.cache
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.csproj.CoreCompileInputs.cache
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.exe
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.pdb
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-audio-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-graphics-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-network-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-system-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\csfml-window-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\libsndfile-1.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\openal32.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\OpenTK.Compatibility.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\OpenTK.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.exe.config
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.exe
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\BooglyAdventure.pdb
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-audio-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-graphics-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-system-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Debug\sfmlnet-window-2.dll
+F:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Debug\BooglyAdventure.csproj.CopyComplete

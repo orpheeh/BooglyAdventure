@@ -1,0 +1,2 @@
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\bin\Release\BooglyAdventure.exe.config
+K:\Section - Archives\Section - Mes Projects\BooglyAdventure\BooglyAdventure\obj\Release\BooglyAdventure.csprojResolveAssemblyReference.cache

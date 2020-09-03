@@ -1,0 +1,815 @@
+#tileset
+goodly-2x.png
+16 16
+tile0: vide
+tile1: plein
+tile2: vide
+tile3: vide
+tile4: vide
+tile5: vide
+tile6: vide
+tile7: vide
+tile8: vide
+tile9: vide
+tile10: vide
+tile11: vide
+tile12: vide
+tile13: vide
+tile14: vide
+tile15: vide
+tile16: plein
+tile17: plein
+tile18: plein
+tile19: vide
+tile20: plein
+tile21: plein
+tile22: plein
+tile23: vide
+tile24: vide
+tile25: vide
+tile26: vide
+tile27: vide
+tile28: vide
+tile29: vide
+tile30: vide
+tile31: vide
+tile32: plein
+tile33: plein
+tile34: plein
+tile35: vide
+tile36: vide
+tile37: vide
+tile38: vide
+tile39: vide
+tile40: vide
+tile41: vide
+tile42: vide
+tile43: vide
+tile44: vide
+tile45: vide
+tile46: vide
+tile47: vide
+tile48: plein
+tile49: plein
+tile50: plein
+tile51: vide
+tile52: vide
+tile53: vide
+tile54: vide
+tile55: vide
+tile56: vide
+tile57: vide
+tile58: vide
+tile59: vide
+tile60: vide
+tile61: vide
+tile62: vide
+tile63: vide
+tile64: vide
+tile65: vide
+tile66: vide
+tile67: vide
+tile68: vide
+tile69: vide
+tile70: vide
+tile71: vide
+tile72: vide
+tile73: vide
+tile74: vide
+tile75: vide
+tile76: vide
+tile77: vide
+tile78: vide
+tile79: vide
+tile80: vide
+tile81: vide
+tile82: vide
+tile83: vide
+tile84: vide
+tile85: vide
+tile86: vide
+tile87: vide
+tile88: vide
+tile89: vide
+tile90: vide
+tile91: vide
+tile92: vide
+tile93: vide
+tile94: vide
+tile95: vide
+tile96: vide
+tile97: vide
+tile98: vide
+tile99: vide
+tile100: vide
+tile101: vide
+tile102: vide
+tile103: vide
+tile104: vide
+tile105: vide
+tile106: vide
+tile107: vide
+tile108: vide
+tile109: vide
+tile110: vide
+tile111: vide
+tile112: vide
+tile113: vide
+tile114: vide
+tile115: vide
+tile116: vide
+tile117: vide
+tile118: vide
+tile119: vide
+tile120: vide
+tile121: vide
+tile122: vide
+tile123: vide
+tile124: vide
+tile125: vide
+tile126: vide
+tile127: vide
+tile128: vide
+tile129: vide
+tile130: vide
+tile131: vide
+tile132: vide
+tile133: vide
+tile134: vide
+tile135: vide
+tile136: vide
+tile137: vide
+tile138: vide
+tile139: vide
+tile140: vide
+tile141: vide
+tile142: vide
+tile143: vide
+tile144: vide
+tile145: vide
+tile146: vide
+tile147: vide
+tile148: vide
+tile149: vide
+tile150: vide
+tile151: vide
+tile152: vide
+tile153: vide
+tile154: vide
+tile155: vide
+tile156: vide
+tile157: vide
+tile158: vide
+tile159: vide
+tile160: vide
+tile161: vide
+tile162: vide
+tile163: vide
+tile164: vide
+tile165: vide
+tile166: vide
+tile167: vide
+tile168: vide
+tile169: vide
+tile170: vide
+tile171: vide
+tile172: vide
+tile173: vide
+tile174: vide
+tile175: vide
+tile176: vide
+tile177: vide
+tile178: vide
+tile179: vide
+tile180: vide
+tile181: vide
+tile182: vide
+tile183: vide
+tile184: vide
+tile185: vide
+tile186: vide
+tile187: vide
+tile188: vide
+tile189: vide
+tile190: vide
+tile191: vide
+tile192: vide
+tile193: vide
+tile194: vide
+tile195: vide
+tile196: vide
+tile197: vide
+tile198: vide
+tile199: vide
+tile200: vide
+tile201: vide
+tile202: vide
+tile203: vide
+tile204: vide
+tile205: vide
+tile206: vide
+tile207: vide
+tile208: vide
+tile209: vide
+tile210: vide
+tile211: vide
+tile212: vide
+tile213: vide
+tile214: vide
+tile215: vide
+tile216: vide
+tile217: vide
+tile218: vide
+tile219: vide
+tile220: vide
+tile221: vide
+tile222: vide
+tile223: vide
+tile224: vide
+tile225: vide
+tile226: vide
+tile227: vide
+tile228: vide
+tile229: vide
+tile230: vide
+tile231: vide
+tile232: vide
+tile233: vide
+tile234: vide
+tile235: vide
+tile236: vide
+tile237: vide
+tile238: vide
+tile239: vide
+tile240: vide
+tile241: vide
+tile242: vide
+tile243: vide
+tile244: vide
+tile245: vide
+tile246: vide
+tile247: vide
+tile248: vide
+tile249: vide
+tile250: vide
+tile251: vide
+tile252: vide
+tile253: vide
+tile254: vide
+tile255: vide
+#level
+120 20
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 20 22 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 20 22 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 18 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 8 32 34 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 0 0 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 0 0 8 8 8 8 8 8 8 8 8 8 2 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 48 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 50 8 32 34 8 8 8 8 
+17 17 17 17 17 17 17 18 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 17 17 17 17 17 17 17 17 17 17 17 18 8 8 8 8 8 8 8 8 8 16 17 17 17 17 17 17 17 17 17 17 17 18 8 8 8 8 8 8 8 8 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 8 8 8 8 8 8 8 1 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+33 33 33 33 33 33 33 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 33 33 33 33 33 33 33 33 33 33 33 34 8 8 8 8 8 8 8 8 8 32 33 33 33 33 33 33 33 33 33 33 33 34 8 8 20 22 8 8 8 8 32 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+49 49 49 49 49 49 49 50 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 48 49 49 49 49 49 49 49 49 49 49 49 50 8 8 8 8 8 8 8 8 8 48 49 49 49 49 49 49 49 49 49 49 49 50 8 8 8 8 8 20 22 8 48 49 49 49 49 49 49 49 49 49 49 49 49 49 49 50 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 20 21 22 8 8 8 8 8 8 8 8 8 20 21 22 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 20 22 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 20 21 21 21 21 21 21 21 21 21 21 21 21 21 22 8 8 8 8 8 8 32 34 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 0 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+8 8 8 8 8 8 8 8 8 0 0 0 8 8 8 8 8 8 8 8 8 2 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 20 22 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 20 22 8 8 32 34 8 8 8 8 
+8 8 8 8 8 8 8 8 8 20 21 21 21 21 21 21 21 21 21 21 21 22 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 18 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 17 17 17 17 17 17 17 18 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 18 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 17 17 17 17 18 32 34 8 8 8 8 
+8 8 8 8 8 8 16 18 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 16 18 8 8 8 8 8 8 8 8 8 8 32 33 33 33 33 33 33 33 34 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 16 18 8 8 8 8 8 8 8 8 8 8 8 8 48 49 49 49 49 50 32 34 8 8 8 8 
+8 8 8 8 8 8 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 8 8 8 8 8 8 32 33 33 33 33 33 33 33 34 8 8 8 8 8 8 8 8 16 18 32 34 8 8 8 20 22 8 8 8 8 8 20 22 8 8 8 8 8 8 20 22 8 8 8 8 8 20 22 8 8 32 34 16 18 32 34 8 8 8 8 8 8 8 8 20 22 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+8 8 8 8 16 18 32 34 8 8 8 20 22 8 8 8 8 8 8 20 22 8 8 8 8 8 16 18 32 34 8 8 8 8 8 8 20 22 8 8 32 33 33 33 33 33 33 33 34 8 8 8 8 8 8 8 8 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+8 8 8 8 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 32 34 8 8 8 8 8 8 8 8 8 8 32 33 33 33 33 33 33 33 34 8 8 8 8 8 8 16 18 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+4 8 8 8 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 2 8 8 8 8 8 8 32 34 32 34 8 8 8 8 8 8 8 8 8 8 32 33 33 33 33 33 33 33 34 8 8 8 8 8 8 48 50 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 32 34 32 34 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 32 34 8 8 8 8 
+17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 
+#ENNEMI
+24
+#1
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+527 287
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#2
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+735 545
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#3
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+376 547
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#4
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+1055 542
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#5
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+1643 536
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#6
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+1391 358
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#7
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+2577 541
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#8
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+2452 539
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#9
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+2310 537
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#10
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3475 538
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#11
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3097 523
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#12
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3293 524
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#13
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3543 349
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#14
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3104 192
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#15
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3280 189
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#16
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3485 42
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#17
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3378 30
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#18
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+3217 43
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#19
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+2565 101
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#20
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+2353 96
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#21
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+1819 103
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#22
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+1639 95
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#23
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+873 84
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#24
+ennemi.png
+0 0 32 32
+#taille ennemi
+32 32
+#position initial
+1201 80
+#vitesse
+2
+#nombre de ressource apres la mort
+4
+#distance
+200
+#Nombre de vie
+3
+#RESSOURCES
+27
+#1
+bonbon
+bonbon.png
+0 0 15 15
+#position
+79 589
+#2
+bonbon
+bonbon.png
+0 0 15 15
+#position
+77 561
+#3
+bonbon
+bonbon.png
+0 0 15 15
+#position
+74 530
+#4
+bonbon
+bonbon.png
+0 0 15 15
+#position
+80 493
+#5
+bonbon
+bonbon.png
+0 0 15 15
+#position
+112 490
+#6
+bonbon
+bonbon.png
+0 0 15 15
+#position
+111 519
+#7
+bonbon
+bonbon.png
+0 0 15 15
+#position
+109 554
+#8
+bonbon
+bonbon.png
+0 0 15 15
+#position
+110 588
+#9
+bonbon
+bonbon.png
+0 0 15 15
+#position
+173 452
+#10
+bonbon
+bonbon.png
+0 0 15 15
+#position
+173 487
+#11
+bonbon
+bonbon.png
+0 0 15 15
+#position
+171 432
+#12
+bonbon
+bonbon.png
+0 0 15 15
+#position
+169 401
+#13
+bonbon
+bonbon.png
+0 0 15 15
+#position
+143 396
+#14
+bonbon
+bonbon.png
+0 0 15 15
+#position
+144 424
+#15
+bonbon
+bonbon.png
+0 0 15 15
+#position
+144 458
+#16
+bonbon
+bonbon.png
+0 0 15 15
+#position
+146 491
+#17
+bonbon
+bonbon.png
+0 0 15 15
+#position
+201 423
+#18
+bonbon
+bonbon.png
+0 0 15 15
+#position
+206 387
+#19
+bonbon
+bonbon.png
+0 0 15 15
+#position
+233 386
+#20
+bonbon
+bonbon.png
+0 0 15 15
+#position
+235 419
+#21
+bonbon
+bonbon.png
+0 0 15 15
+#position
+24 145
+#22
+bonbon
+bonbon.png
+0 0 15 15
+#position
+53 139
+#23
+bonbon
+bonbon.png
+0 0 15 15
+#position
+46 112
+#24
+bonbon
+bonbon.png
+0 0 15 15
+#position
+17 104
+#25
+bonbon
+bonbon.png
+0 0 15 15
+#position
+149 142
+#26
+bonbon
+bonbon.png
+0 0 15 15
+#position
+139 110
+#27
+portail
+portail.png
+0 0 64 64
+#position
+3776 544
+#INSTRUCTION
+3
+#arrive a la porte du chateau. mais attention, les ennemis sont tres nombreux
+n'oublie pas de bien gerer les bonbons qui sont sur le chemin. quand tu tue
+un ennemi, il laisse 4 bonbon. si tu n' as plus de mana, c' est la mort subite
+#POSITION HEROS
+32 574
+#fin
